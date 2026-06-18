@@ -6,7 +6,7 @@
 
 body {
   font-family: system-ui, sans-serif;
-  background: #f9f9f9;
+  background: #f0f7f0;
   color: #1a1a1a;
   min-height: 100vh;
 }
@@ -21,11 +21,12 @@ h1 {
   font-size: 1.5rem;
   font-weight: 600;
   margin-bottom: 0.25rem;
+  color: #1a3d1a;
 }
 
 #ultima-atualizacao {
   font-size: 0.85rem;
-  color: #888;
+  color: #5a7a5a;
   margin-bottom: 2rem;
 }
 
@@ -38,7 +39,7 @@ ul {
 
 li {
   background: white;
-  border: 1px solid #e5e5e5;
+  border: 1px solid #c8e0c8;
   border-radius: 10px;
   padding: 1rem 1.25rem;
   font-size: 0.95rem;
